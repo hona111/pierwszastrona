@@ -1,0 +1,36 @@
+nav {
+    background-color: rgb(94, 94, 94);
+    padding: 5px;
+    height:100px ;
+    
+}
+nav a:link {
+    color: gold;
+    text-decoration: none;
+    font-weight: bold;
+}
+nav a:visited {
+    color: gold;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:link,a:visited{
+    text-decoration: none;
+}
+
+nav .button{
+    border-radius: 20%;
+}
+h3{
+    font-weight: bold;
+}
+ul a:link{
+    color: blue;
+}
+ul a:visited{
+    color: blue;
+}
+footer{
+    background-color: rgb(94, 94, 94);
+    color: white;
+}
