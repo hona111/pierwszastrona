@@ -16,5 +16,9 @@ body {
     line-height: 50px; /* Vertically center the text there */
 }
 body.login-form{
-    background-image: ;
+    background-image:url(img/backimage.jpg) ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
 }
